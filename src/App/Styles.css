@@ -1,0 +1,24 @@
+.main{
+    display: flex;
+
+}
+
+.day{
+    margin: 15px;
+    background-color:  #FE9000;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #094074;
+
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+
+}
